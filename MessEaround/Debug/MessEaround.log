@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+d:\projects\c++\messearound\messearound\source1.cpp(14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\projects\c++\messearound\messearound\source1.cpp(14): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+d:\projects\c++\messearound\messearound\source1.cpp(27): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  MessEaround.vcxproj -> D:\Projects\C++\MessEaround\Debug\MessEaround.exe
+  MessEaround.vcxproj -> D:\Projects\C++\MessEaround\Debug\MessEaround.pdb (Partial PDB)

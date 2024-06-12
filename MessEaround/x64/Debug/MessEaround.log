@@ -1,0 +1,12 @@
+﻿  Source1.cpp
+d:\projects\c++\messearound\messearound\source1.cpp(14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\projects\c++\messearound\messearound\source1.cpp(14): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+d:\projects\c++\messearound\messearound\source1.cpp(27): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  Source.cpp
+d:\projects\c++\messearound\messearound\source.cpp(76): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+d:\projects\c++\messearound\messearound\source.cpp(134): warning C4311: 'type cast': pointer truncation from 'PDWORD' to 'DWORD'
+d:\projects\c++\messearound\messearound\source.cpp(134): warning C4302: 'type cast': truncation from 'PDWORD' to 'DWORD'
+d:\projects\c++\messearound\messearound\source.cpp(134): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+  Generating Code...
+  MessEaround.vcxproj -> D:\Projects\C++\MessEaround\x64\Debug\MessEaround.exe
+  MessEaround.vcxproj -> D:\Projects\C++\MessEaround\x64\Debug\MessEaround.pdb (Partial PDB)
